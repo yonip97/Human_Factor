@@ -1,0 +1,24 @@
+session_id,participant_id,status,started_datetime,completed_date_time,time_taken,age,num_approvals,num_rejections,prolific_score,reviewed_at_datetime,entered_code,Country of Birth,Current Country of Residence,Employment Status,First Language,Fluent languages,Nationality,Sex,Student Status
+61a3ea63113924abbce80dfb,5c0792d036e189000129f15c,APPROVED,45:26.1,51:07.6,341.534,22,119,0,100,34:48.9,8CC6354C,Spain,Spain,DATA EXPIRED,Catalan,"Catalan, English, Spanish",Spain,Female,DATA EXPIRED
+61a3ea677d8265c2d6476b71,609c036816fbf0a2373d8052,APPROVED,45:29.3,50:46.9,317.605,19,22,0,100,34:47.8,8CC6354C,Poland,Poland,Full-Time,Polish,"English, Polish",Poland,Female,Yes
+61a3ea7dfd984dbe8fcc568b,5d533e8614fbe20017f175f8,REJECTED,45:49.1,09:31.7,1422.575,21,162,2,100,30:57.0,8CC6354C,Portugal,Portugal,Other,Portuguese,"English, Portuguese",Portugal,Male,Yes
+61a3ea7fe7bb90d6c6ffb420,60a7781a2f05a1f13e6a7b6d,APPROVED,45:51.5,50:22.3,270.824,23,53,0,100,30:02.5,8CC6354C,Italy,Italy,Unemployed (and job seeking),Italian,"Italian, English, Spanish",Italy,Female,Yes
+61a3ea855656986b2f50428b,5d52b4628c48ca0017855e69,APPROVED,46:19.5,55:30.0,550.504,26,185,0,100,29:50.4,8CC6354C,Egypt,Poland,DATA EXPIRED,DATA EXPIRED,"English, Arabic",Egypt,Male,DATA EXPIRED
+61a3ea8a58e9b5a00566a5c7,61087180ff57921ea2a86429,APPROVED,46:02.9,50:45.3,282.335,22,38,0,100,30:01.2,8CC6354C,Slovenia,Slovenia,Part-Time,Slovenian,"Croatian, English, Slovenian",Slovenia,Male,No
+61a3ea8bc1a994a5fe1bb3a5,5f3471038c02243749f3e62e,APPROVED,46:06.6,49:45.1,218.496,26,83,2,99,29:57.2,8CC6354C,Poland,Poland,Unemployed (and job seeking),Polish,"English, Polish",Poland,Male,Yes
+61a3ea9000ae7fb165778ae9,601ab07a4132933264239897,APPROVED,46:08.4,57:31.1,682.65,21,62,0,100,29:55.9,8CC6354C,Poland,Poland,DATA EXPIRED,Polish,"English, Polish",Poland,Male,DATA EXPIRED
+61a3ea941f413774ca1cdcb8,5c169a5a1f6f15000149bf59,APPROVED,46:12.1,51:27.4,315.307,37,245,0,100,29:54.5,8CC6354C,Poland,Poland,Full-Time,Polish,"Polish, English",Poland,Male,No
+61a3ea9870fa8f09a1a8d308,611e03efdec31f2ee7878056,APPROVED,46:23.4,56:14.6,591.235,23,9,1,94,29:48.5,8CC6354C,South Africa,South Africa,Part-Time,DATA EXPIRED,"Afrikaans, English",South Africa,Female,Yes
+61a3ea98a81492d2d5421ae0,61253c11d542cccca9cf662a,APPROVED,46:23.5,53:00.8,397.272,32,21,0,100,29:47.2,8CC6354C,South Africa,South Africa,Part-Time,DATA EXPIRED,English,South Africa,Male,Yes
+61a3ea99122a3eecfe663914,601c86079cb7c47e8d664224,APPROVED,46:17.5,51:46.2,328.691,20,65,1,100,29:53.4,8CC6354C,Italy,Italy,Unemployed (and job seeking),Italian,"English, Italian",Italy,Male,Yes
+61a3ea9d69d00d0bbbb0e2ae,611152d27346f48b3e22b1a2,APPROVED,46:25.6,53:30.7,425.082,20,113,0,100,29:44.4,8CC6354C,United States,United States,Unemployed (and job seeking),English,"English, Russian",Russian Federation,Female,Yes
+61a3eaa1e174eb3581c723de,5e0b87eb58a5c73bdc9aa47b,TIMED-OUT,46:25.3,,61004.90464,19,187,1,100,,,DATA EXPIRED,Mexico,DATA EXPIRED,DATA EXPIRED,"English, Spanish",DATA EXPIRED,Male,Yes
+61a3eaa9324e73f178cd1be4,6050ae98866a427695e22254,APPROVED,46:33.3,55:16.8,523.506,26,27,0,100,29:43.1,8CC6354C,Czech Republic,Czech Republic,Part-Time,Czech,"Czech, English, Slovak",Czech Republic,Female,No
+61a3eaaa1a1d23f58e2eb89e,6098f71af66c553e53ea3a18,RETURNED,57:00.1,,60370.23153,20,14,0,100,,,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED,CONSENT REVOKED
+61a3eaabb8f5f5728f52ae8c,606b6eb00cc312d321e16249,APPROVED,46:35.4,54:25.1,469.627,22,50,0,100,29:41.0,8CC6354C,Estonia,Estonia,Full-Time,Estonian,"Estonian, English",Estonia,Male,Yes
+61a3ed20de7bbf5ead630ca8,602bcde5e13176370402458a,APPROVED,57:05.0,06:58.3,593.347,19,81,1,99,29:39.0,8CC6354C,Poland,Germany,Unemployed (and job seeking),Polish,"Polish, English, German",Poland,Male,Yes
+61a3f4ddcd589ea544c8c2e7,5f4e76eff69af505fa21da55,TIMED-OUT,30:05.2,,58385.09993,23,199,1,100,,,Poland,Poland,Part-Time,Polish,"Polish, English",Poland,Male,Yes
+61a3ff690726b5ddaa17064f,6110f275e5e009469800b734,APPROVED,15:16.8,18:57.1,220.295,21,98,2,100,29:32.5,8CC6354C,Poland,Poland,Part-Time,Polish,"Polish, English",Poland,Female,Yes
+61a3e45780ede9d019034019,5fecb656416cba997ea9cbfc,APPROVED,19:35.3,25:18.9,343.568,23,63,1,100,30:02.8,1923FBAF,Portugal,Portugal,Other,Portuguese,"English, Portuguese",Portugal,Female,Yes
+61a3e46040fb0630dcdc2708,60fd849c42573f0527bbdb95,APPROVED,19:46.0,24:43.3,297.337,19,22,0,100,30:00.9,1923FBAF,United States,United States,Unemployed (and job seeking),English,English,United States,Female,Yes
+61a3e46181b3fe7f4e0ded02,605dc97c5a9c2bb92f604f01,APPROVED,19:48.5,27:03.8,435.356,23,27,0,100,29:58.9,1923FBAF,Poland,Poland,Full-Time,Polish,"Polish, English",Poland,Male,No
